@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.14",
-  "apk": "apk/CloudSync-1.0.14.apk",
-  "sha256": "47bbfee631a6003069e9746afd9fd0c67bc6e8052ca45bfef8ba1d691d309810",
-  "changelog": "Polish Material 3 UI: dynamic accents, larger hero, icon tiles, primary action above the fold",
-  "publishedAt": "2026-11-24 20:16 UTC"
+  "versionCode": 15,
+  "versionName": "1.0.15",
+  "apk": "apk/CloudSync-1.0.15.apk",
+  "sha256": "dfe6c4a46556b21cd22e6fd6a724c93c0fb71442dff28e3a462a053115455098",
+  "changelog": "Add dedicated keep-alive checklist screen and entry points",
+  "publishedAt": "2026-11-24 20:21 UTC"
 }
