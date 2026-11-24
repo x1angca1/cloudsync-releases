@@ -1,0 +1,8 @@
+{
+  "versionCode": 9,
+  "versionName": "1.0.9",
+  "apk": "apk/CloudSync-1.0.9.apk",
+  "sha256": "ca9506c802269fa82cbe788d2c5bd39a04adb726e5c5ab5c43563bc6770843c3",
+  "changelog": "Add all-files permission flow, safety guard, and in-app updater with mirror selection",
+  "publishedAt": "2026-11-24 19:55 UTC"
+}
