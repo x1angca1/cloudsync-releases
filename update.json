@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.13",
-  "apk": "apk/CloudSync-1.0.13.apk",
-  "sha256": "ef3ac582280cc580d58925c421d0e15ac5eb6f4c32edfc570c521c02870eb8a0",
-  "changelog": "Add GKD-style keep-alive (resident FGS, overlay, alarms, QS tile) and modern edge-to-edge Material 3 UI",
-  "publishedAt": "2026-11-24 20:14 UTC"
+  "versionCode": 14,
+  "versionName": "1.0.14",
+  "apk": "apk/CloudSync-1.0.14.apk",
+  "sha256": "47bbfee631a6003069e9746afd9fd0c67bc6e8052ca45bfef8ba1d691d309810",
+  "changelog": "Polish Material 3 UI: dynamic accents, larger hero, icon tiles, primary action above the fold",
+  "publishedAt": "2026-11-24 20:16 UTC"
 }
