@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.10",
-  "apk": "apk/CloudSync-1.0.10.apk",
-  "sha256": "5ae0b19e0a2e4936d16fe244300a03bd297ba70d6adf2ee52ac0e9b03abf6816",
-  "changelog": "Order update mirrors by reachability; require storage access for test pair",
-  "publishedAt": "2026-11-24 19:59 UTC"
+  "versionCode": 11,
+  "versionName": "1.0.11",
+  "apk": "apk/CloudSync-1.0.11.apk",
+  "sha256": "0e140a1687eb76817b2ed77b191b420b5b90c442a5ad8e3a85114fc84c0a48bb",
+  "changelog": "Avoid stale CDN metadata for update checks; keep two release APKs",
+  "publishedAt": "2026-11-24 20:04 UTC"
 }
