@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.17",
-  "apk": "apk/CloudSync-1.0.17.apk",
-  "sha256": "2bfac896fdf0884c8901855a6fec1eb937112876d1c760ccdd42aacc2960e6fa",
-  "changelog": "Show the current upload and download with progress in the sync notification",
-  "publishedAt": "2026-11-24 20:27 UTC"
+  "versionCode": 18,
+  "versionName": "1.0.18",
+  "apk": "apk/CloudSync-1.0.18.apk",
+  "sha256": "d67b67308581ea6633215bd3a95deb2703265f6fb0e00ac9102ffc435ac37127",
+  "changelog": "Keep the latest upload and download visible until the sync notification ends",
+  "publishedAt": "2026-11-24 20:28 UTC"
 }
