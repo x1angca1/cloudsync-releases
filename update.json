@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.9",
-  "apk": "apk/CloudSync-1.0.9.apk",
-  "sha256": "ca9506c802269fa82cbe788d2c5bd39a04adb726e5c5ab5c43563bc6770843c3",
-  "changelog": "Add all-files permission flow, safety guard, and in-app updater with mirror selection",
-  "publishedAt": "2026-11-24 19:55 UTC"
+  "versionCode": 10,
+  "versionName": "1.0.10",
+  "apk": "apk/CloudSync-1.0.10.apk",
+  "sha256": "5ae0b19e0a2e4936d16fe244300a03bd297ba70d6adf2ee52ac0e9b03abf6816",
+  "changelog": "Order update mirrors by reachability; require storage access for test pair",
+  "publishedAt": "2026-11-24 19:59 UTC"
 }
