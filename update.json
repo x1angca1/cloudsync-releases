@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.12",
-  "apk": "apk/CloudSync-1.0.12.apk",
-  "sha256": "ecc68c8155af17116ceb9da57f74a0d6b0c1b37a250cfa7e27f8e627244cf8aa",
-  "changelog": "Update check consults all mirrors and takes the newest reported version",
-  "publishedAt": "2026-11-24 20:08 UTC"
+  "versionCode": 13,
+  "versionName": "1.0.13",
+  "apk": "apk/CloudSync-1.0.13.apk",
+  "sha256": "ef3ac582280cc580d58925c421d0e15ac5eb6f4c32edfc570c521c02870eb8a0",
+  "changelog": "Add GKD-style keep-alive (resident FGS, overlay, alarms, QS tile) and modern edge-to-edge Material 3 UI",
+  "publishedAt": "2026-11-24 20:14 UTC"
 }
