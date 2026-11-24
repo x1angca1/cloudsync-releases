@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.15",
-  "apk": "apk/CloudSync-1.0.15.apk",
-  "sha256": "dfe6c4a46556b21cd22e6fd6a724c93c0fb71442dff28e3a462a053115455098",
-  "changelog": "Add dedicated keep-alive checklist screen and entry points",
-  "publishedAt": "2026-11-24 20:21 UTC"
+  "versionCode": 16,
+  "versionName": "1.0.16",
+  "apk": "apk/CloudSync-1.0.16.apk",
+  "sha256": "30d2faa7804e402a4768380e1d158c34bdb9fa43c8dcf33bd0eb4da5abc63269",
+  "changelog": "Add optional accessibility keep-alive and include it in the checklist",
+  "publishedAt": "2026-11-24 20:24 UTC"
 }
