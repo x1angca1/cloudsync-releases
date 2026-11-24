@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.16",
-  "apk": "apk/CloudSync-1.0.16.apk",
-  "sha256": "30d2faa7804e402a4768380e1d158c34bdb9fa43c8dcf33bd0eb4da5abc63269",
-  "changelog": "Add optional accessibility keep-alive and include it in the checklist",
-  "publishedAt": "2026-11-24 20:24 UTC"
+  "versionCode": 17,
+  "versionName": "1.0.17",
+  "apk": "apk/CloudSync-1.0.17.apk",
+  "sha256": "2bfac896fdf0884c8901855a6fec1eb937112876d1c760ccdd42aacc2960e6fa",
+  "changelog": "Show the current upload and download with progress in the sync notification",
+  "publishedAt": "2026-11-24 20:27 UTC"
 }
