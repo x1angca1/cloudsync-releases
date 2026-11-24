@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "1.0.19",
-  "apk": "apk/CloudSync-1.0.19.apk",
-  "sha256": "88c3a3784de0f430a92e00d146d0d31312c2cb17f20bbe30bda3ddc2471eeb45",
-  "changelog": "Fix pair creation blocked by storage permission; immediate manual sync; show pair last result and sync start",
-  "publishedAt": "2026-11-24 20:33 UTC"
+  "versionCode": 20,
+  "versionName": "1.0.20",
+  "apk": "apk/CloudSync-1.0.20.apk",
+  "sha256": "ae0f3f647a99683b7f3fe4f740defe536cf187ebe64aff7dc832215aa4051a8f",
+  "changelog": "Report per-file upload progress and show file percent/bytes in app and notification",
+  "publishedAt": "2026-11-24 20:37 UTC"
 }
