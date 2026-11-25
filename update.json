@@ -3,6 +3,6 @@
   "versionName": "1.0.24",
   "apk": "apk/CloudSync-1.0.24.apk",
   "sha256": "9affee8cc1bbfaaaaba1e956cd9d31a086c4cd8cc101163577a836bae79d261a",
-  "changelog": "Update conflict-copy test for timestamped conflict names",
+  "changelog": "对齐 OneSync 上传下载行为：云端保留本地修改时间、下载校验大小与哈希、下载前检查剩余空间、冲突副本按源应用方式命名、单个文件完成后通知里的进度行立即消失",
   "publishedAt": "2026-11-25 03:19 UTC"
 }
