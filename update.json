@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.0.25",
-  "apk": "apk/CloudSync-1.0.25.apk",
-  "sha256": "f842d74a7f81045a7a200f58ef213d3f85fd115361459050e4de4d651daea300",
-  "changelog": "更新页显示可复制的 SHA-256，并提供加速与直连两个外部下载链接",
-  "publishedAt": "2026-11-25 03:25 UTC"
+  "versionCode": 26,
+  "versionName": "1.0.26",
+  "apk": "apk/CloudSync-1.0.26.apk",
+  "sha256": "33440e1fa09bef70faeb19b95122eb7103c337cc3cc91397e9d2e3738a88afef",
+  "changelog": "更多页版本号下显示已安装 APK 的 SHA-256，可点击复制",
+  "publishedAt": "2026-11-25 03:33 UTC"
 }
