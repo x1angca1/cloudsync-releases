@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.0.22",
-  "apk": "apk/CloudSync-1.0.22.apk",
-  "sha256": "814b505ba4ead129219389b165a5085ff7bac16d79867b780f61fad67e0edc57",
-  "changelog": "Match OneSync logic: reset state when pair roots change, detect false conflicts by hash, add state reset",
-  "publishedAt": "2026-11-24 20:54 UTC"
+  "versionCode": 24,
+  "versionName": "1.0.24",
+  "apk": "apk/CloudSync-1.0.24.apk",
+  "sha256": "9affee8cc1bbfaaaaba1e956cd9d31a086c4cd8cc101163577a836bae79d261a",
+  "changelog": "Update conflict-copy test for timestamped conflict names",
+  "publishedAt": "2026-11-25 03:19 UTC"
 }
