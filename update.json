@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.0.29",
-  "apk": "apk/CloudSync-1.0.29.apk",
-  "sha256": "c99cd858e79ef902e856953477cb9c4fda97642a08cb6783316a08049eda49a4",
-  "changelog": "新增取消同步按钮（概览状态卡、文件夹菜单、桌面快捷方式）；下载/上传支持断点续传；并行开关接入同步引擎；同步历史原因中文化",
-  "publishedAt": "2026-11-25 04:06 UTC"
+  "versionCode": 31,
+  "versionName": "1.0.31",
+  "apk": "apk/CloudSync-1.0.31.apk",
+  "sha256": "a0b0e239bacf772f7fb12051583b667815e7c3f58e35c543c0647fb91a091a15",
+  "changelog": "修复云端并行扫描的 InterruptedException 编译错误",
+  "publishedAt": "2026-11-25 04:38 UTC"
 }
