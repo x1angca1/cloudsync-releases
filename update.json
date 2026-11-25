@@ -3,6 +3,6 @@
   "versionName": "1.0.29",
   "apk": "apk/CloudSync-1.0.29.apk",
   "sha256": "c99cd858e79ef902e856953477cb9c4fda97642a08cb6783316a08049eda49a4",
-  "changelog": "修复重复的 action_cancel_sync 字符串资源",
+  "changelog": "新增取消同步按钮（概览状态卡、文件夹菜单、桌面快捷方式）；下载/上传支持断点续传；并行开关接入同步引擎；同步历史原因中文化",
   "publishedAt": "2026-11-25 04:06 UTC"
 }
