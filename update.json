@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "1.0.33",
-  "apk": "apk/CloudSync-1.0.33.apk",
-  "sha256": "efd963360a5ba4323f07d9288600a5a8fbef279c9b182a454169433fbf2308ff",
-  "changelog": "扫描提速：云端改用增量（delta）扫描，日常同步只获取变化的文件，不再每次列出整个目录树；开启「排除子文件夹/排除隐藏文件」时只扫描顶层、不进入排除目录；修改/删除/新增都会在增量流中体现，链接过期自动回退完整扫描",
-  "publishedAt": "2026-11-26 10:12 UTC"
+  "versionCode": 34,
+  "versionName": "1.0.34",
+  "apk": "apk/CloudSync-1.0.34.apk",
+  "sha256": "c6dd30c6896417fb47f8bdcab48eb2ee5b655cb0971a11f9cb26f81dc7fd08d6",
+  "changelog": "文件夹菜单新增深度校验：逐文件比对内容哈希，抓出大小与时间都没变的改动",
+  "publishedAt": "2026-11-26 10:29 UTC"
 }
