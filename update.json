@@ -5,6 +5,6 @@
   "sha256": "dfaa7251fca2e4a5b587b04428c40e4280eb826b6c8f13799d7ed20141f4c779",
   "sha256Cert": "e22e0e31743af6ee58439a1cce99d30af52855b2823a4aa21443f08f8bd2bbd4",
   "releaseUrl": "https://github.com/x1angca1/cloudsync/releases/tag/v1.0.41",
-  "changelog": "更多页显示 GitHub 官方发布的 SHA-256 与签名证书指纹",
+  "changelog": "更多页新增 GitHub 官方发布的 SHA-256 与签名证书指纹：与本机实时计算的哈希同屏对照，同版本时自动比对并给出一致/不一致结论，均可点击复制",
   "publishedAt": "2026-11-27 06:46 UTC"
 }
