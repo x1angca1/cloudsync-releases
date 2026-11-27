@@ -5,6 +5,6 @@
   "sha256": "7ee5a9d20e0099b4e24af82d6a631134756c6dcbb9949774dda76f72f6b15afd",
   "sha256Cert": "e22e0e31743af6ee58439a1cce99d30af52855b2823a4aa21443f08f8bd2bbd4",
   "releaseUrl": "https://github.com/x1angca1/cloudsync/releases/tag/v1.0.37",
-  "changelog": "应用更名 OneDreSync；更新包下载后立即校验并显示结果，改为手动点击安装",
+  "changelog": "应用更名 OneDreSync；更新包下载完成后立即校验 GitHub 发布的 SHA-256 与签名并显示结果，校验通过后需手动点击“安装”才唤起安装器",
   "publishedAt": "2026-11-27 04:30 UTC"
 }
