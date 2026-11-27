@@ -1,10 +1,10 @@
 {
-  "versionCode": 35,
-  "versionName": "1.0.35",
-  "apk": "apk/CloudSync-1.0.35.apk",
-  "sha256": "4b39d5b640d7878579ca2aa04805c7969d29dad73c54e770b367adda3cf1c31b",
+  "versionCode": 36,
+  "versionName": "1.0.36",
+  "apk": "apk/CloudSync-1.0.36.apk",
+  "sha256": "0dab40e6535dc915e051656137ff7f557ce4a2907fd7a6d7a324461cc7bf0782",
   "sha256Cert": "e22e0e31743af6ee58439a1cce99d30af52855b2823a4aa21443f08f8bd2bbd4",
-  "releaseUrl": "https://github.com/x1angca1/cloudsync/releases/tag/v1.0.35",
-  "changelog": "每次构建发布到 GitHub Release（附 APK 与校验文件）；应用内更新下载后自动校验文件 SHA-256 与签名证书指纹（与 GitHub 发布值及本机已装应用签名双重比对），全部通过才安装；校验结果无论成败都会弹窗/通知提示",
-  "publishedAt": "2026-11-27 03:35 UTC"
+  "releaseUrl": "https://github.com/x1angca1/cloudsync/releases/tag/v1.0.36",
+  "changelog": "应用显示名改为 OneSync（英文名）",
+  "publishedAt": "2026-11-27 04:02 UTC"
 }
