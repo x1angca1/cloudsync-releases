@@ -1,10 +1,10 @@
 {
-  "versionCode": 36,
-  "versionName": "1.0.36",
-  "apk": "apk/CloudSync-1.0.36.apk",
-  "sha256": "0dab40e6535dc915e051656137ff7f557ce4a2907fd7a6d7a324461cc7bf0782",
+  "versionCode": 37,
+  "versionName": "1.0.37",
+  "apk": "apk/CloudSync-1.0.37.apk",
+  "sha256": "7ee5a9d20e0099b4e24af82d6a631134756c6dcbb9949774dda76f72f6b15afd",
   "sha256Cert": "e22e0e31743af6ee58439a1cce99d30af52855b2823a4aa21443f08f8bd2bbd4",
-  "releaseUrl": "https://github.com/x1angca1/cloudsync/releases/tag/v1.0.36",
-  "changelog": "应用显示名改为英文名 OneSync（启动器、通知、快捷开关、关于页等）；包名不变，可直接覆盖升级",
-  "publishedAt": "2026-11-27 04:02 UTC"
+  "releaseUrl": "https://github.com/x1angca1/cloudsync/releases/tag/v1.0.37",
+  "changelog": "应用更名 OneDreSync；更新包下载后立即校验并显示结果，改为手动点击安装",
+  "publishedAt": "2026-11-27 04:30 UTC"
 }
