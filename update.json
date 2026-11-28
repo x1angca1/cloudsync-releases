@@ -5,6 +5,6 @@
   "sha256": "352c0d560b7f2c98aed66fc399ef595789a1ebbe16ced56573790913fa09c3ae",
   "sha256Cert": "e22e0e31743af6ee58439a1cce99d30af52855b2823a4aa21443f08f8bd2bbd4",
   "releaseUrl": "https://github.com/x1angca1/cloudsync/releases/tag/v1.0.42",
-  "changelog": "云端变更监视：按间隔轻量轮询 delta 链接，发现变动立即触发同步",
+  "changelog": "云端变更监视：按间隔（1/5/15 分钟，默认 5 分钟）轻量轮询增量链接，发现云端变动立即同步对应文件夹对；本地侧 inotify 即时上传原有；同时修复检查更新可能被镜像缓存干扰的问题（多源取最高版本）",
   "publishedAt": "2026-11-28 04:42 UTC"
 }
